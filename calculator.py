@@ -32,7 +32,7 @@ def logarithm(a, b):
    if (b <= 0) or (a == 1) or (a<=0):
        raise ValueError
    else:
-    return math.log(a, b)   # use math library/raise ValueError
+    return math.log(b, a)   # use math library/raise ValueError
 
 def mul(a, b):
     return a * b
