@@ -1,3 +1,6 @@
+# https://github.com/saco-03/lab10-IO-JY
+# Partner 1: Isaac Osorio
+# Partner 2: Jerry Yao
 """
 calculator.py
 - Defines functions used to create a simple calculator
