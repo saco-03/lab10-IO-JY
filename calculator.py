@@ -8,7 +8,6 @@ import math
 # First example
 def add(a, b): 
     return a + b
-import math
 
 def square_root(a):
    try:
