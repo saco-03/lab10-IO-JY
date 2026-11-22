@@ -26,7 +26,7 @@ class TestCalculator(unittest.TestCase):
     def test_divide(self): # 3 assertions
         self.assertEqual(div(10, 50), 5)
         self.assertEqual(div(-5, 10), -2)
-        self.assertAlmostEqual(div(7, 3), 2.3333333)
+        self.assertAlmostEqual(div(3, 7), 2.3333333)
     # ##########################
 
     ######## Partner 2
